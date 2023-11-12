@@ -1,5 +1,7 @@
 ## PORTFOLIO CV DEVOPS
+```
 %title: PORTFOLIO  %author: abdevs
+```
 Ce repository contient le code source d'un CV portfolio créé avec HTML5, CSS Bootstrap 5 et JavaScript. Il est conçu pour être un point de départ pour les développeurs qui souhaitent créer leur propre CV portfolio.
 
 ### Prérequis
